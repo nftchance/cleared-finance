@@ -1,0 +1,9 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@openzeppelin/contracts": "^4.8.2",
+    "hardhat": "^2.13.0",
+    "solmate": "^6.7.0"
+  }
+}
